@@ -26,7 +26,7 @@ def banner():
               ┃  ┌══════════════════════┐
               └═>█ Informatic in Termux █
                  └══════════════════════┘
-	      ''' + colors.f + ''' Informatic in Termux ''' + colors.vr + '''
+	      ''' + colors.f + '''Comunidad En Telegram ''' + colors.vr + '''
 	      """""""""""""""""""""""""""""''' + colors.f + colors.ci + '''
               https://t.me/Informatic_in_Termux_1 
  \n\n''' + colors.f)
