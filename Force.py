@@ -28,7 +28,7 @@ def banner():
                  └══════════════════════┘
 	      ''' + colors.f + ''' Informatic in Termux ''' + colors.vr + '''
 	      """""""""""""""""""""""""""""''' + colors.f + colors.ci + '''
-              ____https://t.me/Informatic_in_Termux_1_____ 
+              https://t.me/Informatic_in_Termux_1 
  \n\n''' + colors.f)
 time.sleep(2)                                                            
 	
