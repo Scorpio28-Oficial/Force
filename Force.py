@@ -28,7 +28,7 @@ def banner():
             └══════════════════════┘
 
          ''' + colors.f + '''Comunidad En Telegram ''' + colors.vr + '''
-         """""""""""""""""""""""""""""''' + colors.f + colors.ci + '''
+         """""""""""""""""""""''' + colors.f + colors.ci + '''
          https://t.me/Informatic_in_Termux_1 
  \n\n''' + colors.f)
 time.sleep(2)                                                            
