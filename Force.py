@@ -22,10 +22,10 @@ def banner():
          ───────────────────────║  ╚═╗╚═╝║
          C O M U N I D A D      ╚════╚═══╝
          █████████████████████████████████
-        ┃
-        ┃  ┌═════════════════════┐
-        └═>█''' + colors.f + ''' Informatic in Termux ''' + colors.vr + '''█
-           └═════════════════════┘
+         ┃
+         ┃  ┌══════════════════════┐
+         └═>█''' + colors.f + ''' Informatic in Termux ''' + colors.vr + '''█
+            └══════════════════════┘
 
          ''' + colors.f + '''Comunidad En Telegram ''' + colors.vr + '''
          """""""""""""""""""""""""""""''' + colors.f + colors.ci + '''
