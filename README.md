@@ -19,9 +19,8 @@ chmod 777 Force.py
 
 Python Force.py
 
-# Canal de YouTube
+# Informatic in Termux
 
-👇👇👇
-https://youtube.com/channel/UCZxKLn6KG0Dm5kmRaOGphsg
+https://t.me/Informatic_in_Termux_1
 
 # By: Scorpio28
