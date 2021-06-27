@@ -14,7 +14,7 @@ Es una herramienta creada en python cuya funcion es crear diccionario para fuerz
 
 * pkg install git -y
 
-* git clone https://github.com/Scorpio28-Official/Force
+* git clone https://github.com/Scorpio28-Oficial/Force
 
 * ls
 
