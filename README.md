@@ -1,7 +1,4 @@
 ### Force
-<p align="center">
- <img src="https://i.imgur.com/YKOBoaC.jpg" width="600px">
-</p>
 
 Es una herramienta creada en python cuya funcion es crear diccionario para fuerza bruta.
 
